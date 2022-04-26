@@ -5,11 +5,6 @@
 # Image Processor
 
 ## Welcome back to AJS Industries. We now present you our final product, the Patient Monitoring Client/Server Let's give you an overview of how it works. 
-### Responsiblity Clauses:
-* The following is the breakdown of responsiblities:
-	* Julianna Bordas: Add-On GUI
-	* Steven Parker: Monitoring-Side GUI
-	* Ayman Yousef: Patient-Side GUI
 
 ### Video Demonstration:
 Here is a link to a demonstration dont by co-developer Steven Parker about the functionality of all 3 GUIs and how they worrk in tandem: https://www.youtube.com/watch?v=5AuaDZnSStY&t=147s
