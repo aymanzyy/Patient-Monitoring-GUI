@@ -21,17 +21,17 @@ Here is a link to a demonstration dont by co-developer Steven Parker about the f
   ```
    git clone https://github.com/BME547-Spring2022/final-project-ayman-julianna-steven.git
 
-	```
+  ```
 * It is best to create a virtual environment to work in. This can be done via the following command. Python3 is the python version used to create/test the code. 
   ```
-python3 -m venv /path/to/new/virtual/environment 
+  python3 -m venv /path/to/new/virtual/environment 
 
-	```
+  ```
 * Once you have a virtual environment, you can activate it with the command: source nameofenvironment/bin/activate. With this environment activated, we can now install the right modules. Use the following command to do so: 
     ```
     pip install -r requirements.txt
 
-	```
+    ```
 ### Instructions for Running Patient-Side GUI:
 
 * In order to run the patient-side gui, make sure you are in the correct folder. You should be able to see a file named <em>patientSideGui.py</em>. To start the GUI, run the following:
