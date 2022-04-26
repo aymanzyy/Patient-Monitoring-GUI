@@ -63,7 +63,7 @@ Here is a link to a demonstration dont by co-developer Steven Parker about the f
 ### Instructions on running Available Patients GUI:
 * If the prerequisities listed at the top of this README have already been met, you can continue. If not, make sure to follow these prereqs before continuing. 
 * In order to run the patient-side gui, make sure you are in the correct folder. You should be able to see a file named <em>add_on_gui.py</em>. To start the GUI, run the following:
-*     ```
+    ```
     python3 add_on_gui.py
     ```	
 
